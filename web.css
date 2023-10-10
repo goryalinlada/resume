@@ -1,0 +1,19 @@
+.color {
+  background-color: #e3d8cc;
+}
+
+.headcolor {
+  background-color: #A39786;
+}
+
+
+h1,h2,h3,h5,h6 {
+font-family: 'Noto Sans Thai', sans-serif;
+}
+
+p {
+font-family: 'K2D', sans-serif;
+}
+
+.textcenter {text-align: center;
+}
